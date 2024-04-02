@@ -1,3 +1,4 @@
+# questions and answers the ai train on.
 {"intents": [
         {"tag": "greeting",
          "patterns": ["Hi there", "How are you", "Is anyone there?","Hey","Hola", "Hello", "Good day"],
